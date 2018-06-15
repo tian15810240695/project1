@@ -8,7 +8,7 @@ for(var i =0; i<oLi.length;i++){
         }
         oLi[this.index].className="active";
         for(var i=0;i<oBox.length;i++){
-            oBox[i].style.display="none";
+            
         }
         
         
